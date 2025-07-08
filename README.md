@@ -16,19 +16,19 @@ I'm a passionate web developer who enjoys building practical and real-world appl
 
 | Project Name | Tech Stack | Description |
 |--------------|------------|-------------|
-| [Student Management System](https://github.com/Only-Niharika/student-management) | PHP, MySQL, HTML, JS | Manage student records (CRUD) |
-| [To-Do List App](https://github.com/Only-Niharika/todo-list-js) | JavaScript, HTML, CSS | Simple task manager using localStorage |
-| [Login System](https://github.com/Only-Niharika/php-login) | PHP, MySQL | Basic login/register system |
-| [Portfolio Website](https://github.com/Only-Niharika/portfolio-site) | HTML, CSS, JS | My personal website design |
+| [Student Management System](https://github.com/Only-Niharika/) | PHP, MySQL, HTML, JS | Manage student records (CRUD) |
+| [To-Do List App](https://github.com/Only-Niharika/) | JavaScript, HTML, CSS | Simple task manager using localStorage |
+| [Login System](https://github.com/Only-Niharika/) | PHP, MySQL | Basic login/register system |
+| [Portfolio Website](https://github.com/Only-Niharika/) | HTML, CSS, JS | My personal website design |
 
 ---
 
-## 🚀 Goals
+<!--## 🚀 Goals
 
 - Learn full-stack frameworks (Laravel, React)
 - Build production-ready web apps
 - Collaborate on open-source projects
-- Explore international opportunities in tech
+- Explore international opportunities in tech-->
 
 ---
 
