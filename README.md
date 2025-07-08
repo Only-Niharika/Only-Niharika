@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Niharika!
 
-<!--
-**Only-Niharika/Only-Niharika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer who enjoys building practical and real-world applications using **PHP, JavaScript, MySQL**, and modern web technologies. This GitHub profile is my portfolio — a place to showcase everything I’ve built and continue to improve.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Languages:** C, C++, PHP, JavaScript, SQL
+- **Web Development:** HTML, CSS, PHP, MySQL, AJAX
+- **Tools & Platforms:** Git, GitHub, VS Code, XAMPP
+
+---
+
+## 💼 Projects
+
+| Project Name | Tech Stack | Description |
+|--------------|------------|-------------|
+| [Student Management System](https://github.com/Only-Niharika/student-management) | PHP, MySQL, HTML, JS | Manage student records (CRUD) |
+| [To-Do List App](https://github.com/Only-Niharika/todo-list-js) | JavaScript, HTML, CSS | Simple task manager using localStorage |
+| [Login System](https://github.com/Only-Niharika/php-login) | PHP, MySQL | Basic login/register system |
+| [Portfolio Website](https://github.com/Only-Niharika/portfolio-site) | HTML, CSS, JS | My personal website design |
+
+---
+
+## 🚀 Goals
+
+- Learn full-stack frameworks (Laravel, React)
+- Build production-ready web apps
+- Collaborate on open-source projects
+- Explore international opportunities in tech
+
+---
+
+## 📫 Let's Connect
+
+- 🐙 GitHub: [github.com/Only-Niharika](https://github.com/Only-Niharika)
+
+---
+
+> 💡 *This profile will keep growing as I learn and build more projects.*
