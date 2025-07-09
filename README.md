@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Niharika!
 
-I'm a passionate web developer who enjoys building practical and real-world applications using **PHP, JavaScript, MySQL**, and modern web technologies. This GitHub profile is my portfolio — a place to showcase everything I’ve built and continue to improve.
+I'm a passionate web developer who enjoys building practical and real-world applications using modern web technologies. This GitHub profile is my portfolio — a place to showcase everything I’ve built and continue to improve.
 
 ---
 
