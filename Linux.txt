@@ -1,0 +1,60 @@
+Linux
+Linux is a Kernal developed by Linus Benedict Torvalds in 1991.  It is open source and free operating system developed on Unix architecture.
+Linux Version 0.01 code was developed and posted on Minix NewsGroup on 17th September, 1991 and got popular. People encouraged Linus so, he developed and released Linux version 0.02 officially on 5th October, 1991. 
+Linux is known for its security, stability and multi-tasking features.  Basic Components of linux are :- 
+Kernel :- Heart of Linux 
+Shell :-  It allows users to interact with kernel.
+File system :- Linux follows the hierarchical file system starting with root directory.
+Linux is available in different versions called distributions (distros).  Popular linux distributions include :-
+Ubuntu
+Red Hat 
+Fedora
+Debian
+Kali 
+
+Linux is widely known for its command line interface.
+Some basic commands are:-
+pwd -> to get the path of current working directory
+ls -> list files
+cd -> change directory
+mkdir -> to make directory
+rm -> to remove or delete files or directories
+clear -> to clear terminal screen
+whoami -> return the name of current logged-in user
+uname -> show the kernal name
+uname -v -> shows the kernal version 
+touch -> to create empty files
+nano -> to open the file in any of the text editor
+date -> returns the current date and time
+
+File Hierarchical System :- Linux follows the file hierarchical system starting from root directory. In Linux everything is represented as a file including a hardware program, the files are stored in a directory and every directory contains a file with a tree structure. This is file system hierarchy.
+(/) -> root directory
+/home -> home directory 
+/bin -> user binaries
+/dev -> device files
+/var -> variable files
+/etc -> configurtion files. and many more...
+
+User Management :- To create new user, check the exiting user, deleting user and many more commands which are used for users come under user management. 
+sudo user add
+grep username /etc/passwd
+sudo passwd password -> to set password 
+su username -> switch user
+sudo userdel username -> to delete user
+
+Group Management :- Group is the collection of user accounts which is very useful to administrator for manage and apply permissions on number of users.
+sudo groupadd groupname -> create group
+cat etc/group -> add group list
+sudo gpasswd -a name grpname -> add user in group
+sudo gpasswd -d name grpname -> remove user from user
+
+Permissions and Ownerships :- 
+chmod permissions filename
+eg:- chmod 755 demo.txt
+7 (for owner) -> read write execute
+5(group) -> read and execute
+5(other) -> read and execute
+
+
+
+
