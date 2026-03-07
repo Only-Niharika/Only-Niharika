@@ -49,12 +49,13 @@ sudo gpasswd -a name grpname -> add user in group
 sudo gpasswd -d name grpname -> remove user from user
 
 Permissions and Ownerships :- 
-chmod permissions filename
+Permissions:- chmod permissions filename
 eg:- chmod 755 demo.txt
 7 (for owner) -> read write execute
 5(group) -> read and execute
 5(other) -> read and execute
 
+Ownership:- sudo chown username filename
 
 
 
