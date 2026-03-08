@@ -1,0 +1,25 @@
+Git & Github
+
+Git is the distributed version control system used to track changes in code. 
+
+Github is a cloud platformwhere the data is stored in repositories.
+
+Both git and github work together. 
+
+Terminologies of git and github:-
+
+ -Repository:- A repository (repo) is a storage location where project files, codes and version histories are stored.
+
+ -commit:- A commit is a snapshot of changes saved in repository.
+
+ -clone:- make a copy of remote repository on your computer.
+
+ -staging area:- where files are prepared before commiting to repository.
+
+ -fetch :- downloads changes but do not merge them.
+ 
+ -pull :- download and merge the changes.
+
+ -branch:- a branch is a separate line of development used to work on new features without affecting the main code.
+
+ -merge:- combines changes from defferent branches. 
