@@ -22,4 +22,4 @@ Terminologies of git and github:-
 
  -branch:- a branch is a separate line of development used to work on new features without affecting the main code.
 
- -merge:- combines changes from defferent branches. 
+ -merge:- combines changes from defferent branches.  
