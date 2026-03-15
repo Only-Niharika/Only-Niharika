@@ -1,0 +1,64 @@
+Networking plays a crucial role in Devops
+
+A computer network is a group of connected devices that communicates with each other to share data 
+and resources.
+
+basic terminology:- 
+    -Network:- group of connected devices.
+    -Node:- Any device in a network.
+    -Networking device:- device that manages networking functions.
+    -Transmission Media:- The physical or wireless medium throug which data travels between devices.
+    -Wired media:- Ethernet cables, optical fibre.
+    -Wireless media:- Wi-Fi, Bluetooth, infrared.
+    -Service Provider Networks:- Network offered by external providers 
+
+Types of computer networks:-
+    -PAN (Personal Area Network) connects personal devices within a range of 10 meters. ex: Bluetooth
+    -LAN (Local Area Network)connects computers and devices within a limited area such as home, office, building etc. ex: wifi
+    -CAN (Campus Area Network) connects multiple LAN's within a campus or nearby building. ex: Collage or corporate network. 
+    -MAN (Metropolitan Area Network) connects multiple networks within a city or large town. ex: City wide ISP network.
+    -WAN (Wide Area Network) connects networks over large geographical area such as countries or continents. ex: The Internet.
+
+Network Topology:- Network Topology refers to the arrangement of different elements such as nodes, links and devices in a computer network.
+
+Types of network topologies are:-
+    -Mesh Topology: Where each and every device is connected to another device via a particular channel.
+    -Star Topology: Where all devices are connected to a single hub through a cable.
+    -Bus Topology: Every device is connected to a single cable.
+    -Ring Topology: Where every device is connected to two neighbouring devices forming a ring.
+    -Tree Topology: Where devices are connected in a hierarchy.
+    -Hybrid Topology: Combination of various types of topologies.
+
+OSI Model:- The Open System Interconnection (OSI) Model is a set of rules that explains how different computer systems communicate 
+            over a network. The model was developed by International Organization for standardization (ISO). It consists of seven layers
+            and each layer has specific fuc=nction and responsibilities.
+
+The Seven layers of OSI model are :-
+    -Application Layer (Layer 7): Provides network services directly to user applications like browsers and email.
+    -Presentation Layer (Layer 6) – Translates, encrypts, and compresses data so different systems can understand it.
+    -Session Layer (Layer 5) – Establishes, manages, and terminates communication sessions between devices.
+    -Transport Layer (Layer 4) – Ensures reliable data transfer using error checking and flow control.
+    -Network Layer (Layer 3) – Determines the best path for data to travel between networks using logical addressing (IP).
+    -Data Link Layer (Layer 2) – Transfers data between devices on the same network and handles MAC addressing.
+    -Physical Layer (Layer 1) – Transmits raw bits as electrical, optical, or radio signals over physical media.
+
+TCP/IP Model:- The Transmission Control Protocol/Internet Protocol (TCP/IP) Model is a set of communication protocols that
+               explains how computers communicate over a network, especially the internet. The model was developed by the
+               United States Department of Defense (DoD). It consists of four layers and each layer has specific functions
+               and responsibilities.
+
+The Four layers of TCP/IP model are :-
+
+    -Application Layer: Provides network services directly to user applications such as web browsers, 
+                        email services, and file transfer programs.
+
+    -Transport Layer: Ensures reliable communication between devices by managing data transmission,
+                      error detection, and flow control using protocols like TCP and UDP.
+
+    -Internet Layer: Responsible for logical addressing and routing of data packets so they can travel
+                     across different networks using Internet Protocol (IP).
+
+    -Network Access Layer: Handles the transmission of data over the physical network and manages
+                           hardware addressing and access to the network media.
+
+                        
