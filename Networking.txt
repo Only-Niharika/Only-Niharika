@@ -61,4 +61,8 @@ The Four layers of TCP/IP model are :-
     -Network Access Layer: Handles the transmission of data over the physical network and manages
                            hardware addressing and access to the network media.
 
-                        
+Ports:- A port is a logical identifier used to distinguish between different applications and services on a device, 
+        allowing network traffic to reach the correct program. 
+
+IP address:- An IP Address (Internet Protocol Address) is a unique number assigned to each device connected
+             to a computer network that uses the Internet Protocol for communication.  
