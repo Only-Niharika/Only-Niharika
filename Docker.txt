@@ -1,0 +1,78 @@
+Docker
+
+Docker is a platform used to develop, ship and run applications inside containers.
+
+Containers allow applications to run the same way on any system.
+
+Docker helps in avoiding “it works on my machine” problem.
+
+Terminologies of Docker with Commands:-
+
+Container:- A container is a lightweight package that contains application, code, libraries and dependencies.
+Command:- docker run <image_name> → creates and runs a container
+
+Image:- An image is a blueprint used to create containers.
+Command:- docker images → shows all images
+
+Dockerfile:- A Dockerfile is a text file with instructions to build image.
+Command:- docker build -t <image_name> . → builds image from Dockerfile
+
+Docker Hub:- Docker Hub is a cloud platform where images are stored.
+Command:- docker pull <image_name> → download image
+docker push <image_name> → upload image
+
+Volume:- A volume is used to store data permanently.
+Command:- docker volume create <volume_name>
+
+Port Mapping:- Connects container port to system port.
+Command:- docker run -p 8080:80 <image_name>
+
+Layer:- Image is made of multiple layers (no direct command, created during build).
+
+Build:- Creating image from Dockerfile.
+Command:- docker build -t myapp .
+
+Run:- Creates and starts container.
+Command:- docker run <image_name>
+
+Pull:- Downloads image.
+Command:- docker pull nginx
+
+Push:- Uploads image.
+Command:- docker push username/image_name
+
+Stop:- Stops running container.
+Command:- docker stop <container_id>
+
+Start:- Starts stopped container.
+Command:- docker start <container_id>
+
+Remove:- Deletes container or image.
+Command:-
+docker rm <container_id> → remove container
+docker rmi <image_id> → remove image
+
+List Containers:- Shows containers.
+Command:-
+docker ps → running containers
+docker ps -a → all containers
+
+Exec:- Run command inside container.
+Command:- docker exec -it <container_id> bash
+
+Logs:- Shows container logs.
+Command:- docker logs <container_id>
+
+Network:- Allows containers to communicate.
+Command:- docker network ls
+
+Compose:- Run multiple containers using one file.
+Command:-
+docker-compose up → start services
+docker-compose down → stop services
+
+Rename Container:- Rename container.
+Command:- docker rename old_name new_name
+
+Inspect:- Shows detailed info.
+Command:- docker inspect <container_id>
