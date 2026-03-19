@@ -1,9 +1,7 @@
 Git & Github
 
 Git is the distributed version control system used to track changes in code. 
-
 Github is a cloud platformwhere the data is stored in repositories.
-
 Both git and github work together. 
 
 Terminologies of git and github:-

@@ -1,9 +1,7 @@
 Docker
 
 Docker is a platform used to develop, ship and run applications inside containers.
-
 Containers allow applications to run the same way on any system.
-
 Docker helps in avoiding “it works on my machine” problem.
 
 Terminologies of Docker with Commands:-
