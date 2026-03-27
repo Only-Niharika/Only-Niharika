@@ -57,5 +57,20 @@ eg:- chmod 755 demo.txt
 
 Ownership:- sudo chown username filename
 
+ACL (Access Control List):-
+sudo setfacl -m u:<username>:<permissions> <file or directory name>
+    -> this command is to set acl permissions to user 
 
+sudo setfacl -x u:<username> <file or directory name>
+    -> To remove acl permissions 
+
+sudo setfacl -m g:<groupname>:<permissions> <file or directory name>
+    -> To set ACL permissions to group 
+
+sudo setfacl -x g:<username> <file or directory name>
+    -> To remove ACL permissions of group 
+
+sudo setfacl -b <file or directory name>
+    -> to remove all acl permissions 
+    
 
