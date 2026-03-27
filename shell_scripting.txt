@@ -1,0 +1,14 @@
+A shell script is the file that contains a series of commands. The shell reads this file 
+and carries out the commands as though they have been entered directly on the command line.
+
+The shell scripts has the file extension .shell
+
+Steps required to write shell script:-
+    step1:- Use any editor like vi or vim to write shell script.
+        ex:- vim hello.shell
+    Step2:- After writing shell script set execute permissions for script as follows:
+        ex:- chmod +x hello.shell
+    Step3:- Execute your script as 
+        example:- ./hello.shell
+
+         
