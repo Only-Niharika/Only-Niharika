@@ -1,8 +1,15 @@
 Docker
 
 Docker is a platform used to develop, ship and run applications inside containers.
-Containers allow applications to run the same way on any system.
-Docker helps in avoiding “it works on my machine” problem.
+A container package the application code together with all its dependencies (libraries, runtime, config) 
+so it run consistently across any environment. Docker helps in avoiding “it works on my machine” problem.
+
+Why Docker is used? 
+    - Eliminates 'works on my machine'problem.
+    - Lightweight - shaes host OS kernel, unlike VMs
+    - Fast startup - containers starts in seconds.
+    - Isolation - each container is isolated from others.
+    - Consistency across Dev, Test, and Production environments.
 
 Terminologies of Docker with Commands:-
 
