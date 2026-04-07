@@ -1,0 +1,14 @@
+Cloud Computing:- Cloud Computing is the on demand delivery of computing services - including storage, database, networking, software analytics
+and inteligence - over the internet with pay-as-you-go pricing. 
+Instead of owning or maintaining physical data centers user can simply rent the access to required resources from a cloud provider.
+
+Types of cloud computing 
+
+-> IAAS - Infrastructure as a services 
+          It provides the virtual machines, storage, networking. examples: AWS EC2, google compute.
+-> PAAS - Platform as a services
+          It provides development platform and tools. examples: AWS elastic beanstalk, google app engine.
+-> SAAS - Software as a services
+          It provides ready to use software apps. example: Amazon Connect, gmail.
+
+          
