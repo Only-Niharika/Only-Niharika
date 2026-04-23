@@ -11,4 +11,8 @@ Types of cloud computing
 -> SAAS - Software as a services
           It provides ready to use software apps. example: Amazon Connect, gmail.
 
-          
+Depolyment models 
+ 
+ -> Public Cloud - Shared infrastructure managed by a third party (AWS, Azure, GCP), multiple users can access the services over the internet =.
+ -> Private Cloud - Dedicated cloud infrastructure for a single organization, offering more control and privacy.
+ -> Hybrid cloud - A mix of public and private cloud environment, allowing data and applications to move them for flexibility.
